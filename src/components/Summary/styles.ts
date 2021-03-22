@@ -30,6 +30,10 @@ export const Container = styled.div`
       background: var(--green);
       color: #fff;
     }
+    &.negative {
+      background: var(--red);
+      color: #fff;
+    }
 
   }
 
