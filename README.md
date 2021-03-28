@@ -4,7 +4,7 @@
   Dt Money
 </br>
 
-<img src="./public/tumb.png">
+<img src="https://ik.imagekit.io/igorgamantino/tumb_i0HDzsC_sH.png">
 
 </h1>
 
