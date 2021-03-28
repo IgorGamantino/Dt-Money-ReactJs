@@ -4,7 +4,7 @@
   Dt Money
 </br>
 
-<img src="./public/tumbnail.png">
+<img src="./public/tumb.png">
 
 </h1>
 
